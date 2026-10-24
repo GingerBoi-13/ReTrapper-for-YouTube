@@ -1,6 +1,6 @@
-WARNING: I have zero coding capability, I have tried many times to learn but I've never been able to understand it. So with that out of the way I MUST preface that all the ideas for this extension were me alone but that Claude Ai built all the code. Below is a link to the GitHub page. Since starting this extension I've wanted to make sure it stays open source. I refuse to let this extension turn into a certain pay-walled extension (if you know you know).
+[Description & Options.md](https://github.com/user-attachments/files/33906575/Description.Options.md)WARNING: I have zero coding capability, I have tried many times to learn but I've never been able to understand it. So with that out of the way I MUST preface that all the ideas for this extension were me alone but that Claude Ai built all the code. Below is a link to the GitHub page. Since starting this extension I've wanted to make sure it stays open source. I refuse to let this extension turn into a certain pay-walled extension (if you know you know). 
 
-Below lists all 394 options.
+Below lists all 415 options.
 
 ## Settings pages (gear icon, top left)
 
@@ -44,7 +44,7 @@ Below lists all 394 options.
 - Disable infinite scrolling
 - Hide YouTube Playables
 - Show full video titles
-- Video grid: hide profile pictures
+- Video cards: hide channel pictures
 - Hide all suggestions except first row
 - Hide extra rows
 - Rows to keep *(number)*
@@ -55,9 +55,10 @@ Below lists all 394 options.
 - Hide suggested / recommended videos
 - Hide personalized recommendations
 - Hide "For You" content
+- Hide YouTube featured and event promotions
 - Hide ads in first recommendation slot
 - Homepage: hide Latest YouTube posts
-- Video grid: smaller text
+- Video cards: smaller text
 - Show full channel name and upload time
 - Redirect Home page *(Off / Subscriptions / Watch Later / Library / Custom page)*
 - Custom page (e.g. /feed/history) *(text)*
@@ -80,6 +81,7 @@ Below lists all 394 options.
 - Hide video description
 - Auto-expand video description
 - Hide ads
+- Search bar for comments
 - Sort comments *(Top (featured comments) / Newest (recent, may include spam) / Most liked / Most replied)*
 - Hide comment count
 - Hide replies
@@ -237,6 +239,28 @@ Below lists all 394 options.
 - Hide distracting elements
 - Customize channel navigation *(pick several)*
 - Filter channel content (keywords, one per line) *(text list)*
+
+### Video Card
+
+- Hide views
+- Hide time since publication
+- Hide publication date
+- Show exact upload date and time (DD-MM-YYYY HH:MM)
+- Hide hype/trending badges
+- Show full video titles
+- Show full channel name and upload time
+- Lowercase video titles
+- Video cards: hide channel pictures
+- Video cards: smaller text
+- Hide thumbnails
+- Blur thumbnails
+- Blur strength *(slider)*
+- Grayscale thumbnails
+- Reduce thumbnail visibility
+- Thumbnail opacity *(slider)*
+- Modify thumbnails (CSS filter) *(text)*
+- Video cards: hide video length
+- Blur
 
 ### Thumbnails
 
