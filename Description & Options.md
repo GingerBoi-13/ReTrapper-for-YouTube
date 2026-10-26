@@ -1,4 +1,4 @@
-[Description & Options.md](https://github.com/user-attachments/files/33906575/Description.Options.md)WARNING: I have zero coding capability, I have tried many times to learn but I've never been able to understand it. So with that out of the way I MUST preface that all the ideas for this extension were me alone but that Claude Ai built all the code. Below is a link to the GitHub page. Since starting this extension I've wanted to make sure it stays open source. I refuse to let this extension turn into a certain pay-walled extension (if you know you know). 
+WARNING: I have zero coding capability, I have tried many times to learn but I've never been able to understand it. So with that out of the way I MUST preface that all the ideas for this extension were me alone but that Claude Ai built all the code. Below is a link to the GitHub page. Since starting this extension I've wanted to make sure it stays open source. I refuse to let this extension turn into a certain pay-walled extension (if you know you know). 
 
 Below lists all 415 options.
 
