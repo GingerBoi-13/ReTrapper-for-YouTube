@@ -1,6 +1,6 @@
 WARNING: I have zero coding capability, I have tried many times to learn but I've never been able to understand it. So with that out of the way I MUST preface that all the ideas for this extension were me alone but that Claude Ai built all the code. Below is a link to the GitHub page. Since starting this extension I've wanted to make sure it stays open source. I refuse to let this extension turn into a certain pay-walled extension (if you know you know). 
 
-Below lists all 415 options.
+Below lists all 416 options.
 
 ## Settings pages (gear icon, top left)
 
@@ -148,7 +148,7 @@ Below lists all 415 options.
 - Hide channel owner information
 - Lowercase video titles
 - Hide video metadata
-- Hide views
+- Hide views on the video page
 - Hide likes
 - Hide subscriber count
 - Hide publication date
@@ -242,7 +242,7 @@ Below lists all 415 options.
 
 ### Video Card
 
-- Hide views
+- Video cards: hide views
 - Hide time since publication
 - Hide publication date
 - Show exact upload date and time (DD-MM-YYYY HH:MM)
@@ -448,7 +448,8 @@ Below lists all 415 options.
 
 ### Metrics
 
-- Hide views
+- Hide views on the video page
+- Video cards: hide views
 - Hide likes
 - Show exact upload date and time (DD-MM-YYYY HH:MM)
 - Hide subscriber count
